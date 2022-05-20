@@ -1,0 +1,32 @@
+SalesForce
+======================================================
+@ControllerAdvice
+Executor Framework
+======================================================
+Github
+Dynatrace
+QC- Quality center
+======================================================
+
+Positional parameter 
+name parameter
+name parameterlist
+======================================================
+java.io.getCanonicalPath
+java.io.getCaninicalFile
+======================================================
+Cron expression
+======================================================
+8761: Default eureka server port number
+======================================================
+<dependency>
+	<groupId>org.springframework.boot</groupId>
+	<artifactId>spring-boot-starter-web</artifactId>
+	<scope>test</scope>
+</dependency>
+
+
+@Value($)
+
+ExceptionHandler()
+Controller advice
